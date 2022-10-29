@@ -1,20 +1,30 @@
 header{
     text-align: center;
-    background-color: rgba(117, 117, 117, 0.575);
-    border-bottom: 4px solid gold;
+    background-color: rgba(182, 182, 182, 0.575);
+    border-bottom: 3px solid gold;
     margin-left: 200px;
     margin-right: 200px;
 }
 
 h3{
-    color:gold
+    color:gold;
 }
 
 h4{
     font-style: italic;
 }
 
-div{
+.container{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.separator {
+
+    border-top: 1px solid gold;
+}
+
+footer{
     margin-left: 200px;
     margin-right: 200px;
 }
